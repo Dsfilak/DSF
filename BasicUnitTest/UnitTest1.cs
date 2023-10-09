@@ -11,7 +11,7 @@ namespace BasicUnitTest
         public void TestMethod1()
         {
             Class1 tp = new Class1();
-            Assert.AreEqual(tp.Name, "[Dylan Filak] - The Code Munchkin 1234343434");
+            Assert.AreEqual(tp.Name, "[Dylan Filak] - The Code Munchkin ");
         }
     }
 }
